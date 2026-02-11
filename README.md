@@ -66,12 +66,12 @@ UML_Diagram.png (or UML_Diagram.pdf)
 
 ## 🧩 Step 1 — Choose Your Dataset
 
-**Dataset Name:**  
+**Dataset Name:**  pokemon.csv
 **Source / Link:**  
 
 **What this dataset contains (2–3 sentences):**  
-____________________________________________________________________  
-____________________________________________________________________  
+This dataset contains all the information for the first 152 Pokemon
+in generation 1.
 
 ---
 
@@ -80,8 +80,8 @@ ____________________________________________________________________
 Your guiding question should be something you can answer using your dataset.
 
 **My guiding question:**  
-____________________________________________________________________  
-____________________________________________________________________  
+"How many Pokemon are fire, water, or grass type in Generation 1?"
+"How many Pokemon are statistically-speaking, strong?"
 
 Examples:
 
@@ -140,13 +140,13 @@ You must write **at least two algorithms** to analyze your dataset.
 - [ ] Minimum value of attribute  
 - [ ] Maximum value of attribute  
 - [ ] Average of attribute  
-- [ ] Filter by category  
-- [ ] Count items matching a condition  
+- [X] Filter by category  
+- [X] Count items matching a condition  
 
 **Algorithms I will implement:**
 
-1. __________________________________________  
-2. __________________________________________  
+1. Filter by category.
+2. Count items matching a condition.
 
 Optional extras:  
 - Sorting  
