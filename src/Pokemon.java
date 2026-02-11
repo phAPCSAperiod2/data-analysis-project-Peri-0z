@@ -98,6 +98,7 @@ public class Pokemon {
      * @param index       The index of the Pokemon to check
      * @return true if the Pokemon is strong; false otherwise
      */
+    // Filter by condition.
     public boolean isStrong(Pokemon[] pokemonList, int index) {
         return pokemonList[index].getAttack() > 50 && pokemonList[index].getDefense() > 50;
     }
@@ -112,6 +113,7 @@ public class Pokemon {
      * @param type        The type to match against
      * @return The number of Pokemon matching the given type
      */
+    // Count items matching a condition.
     public int howManyTypes(Pokemon[] pokemonList, int limit, String type) {
         int count = 0;
         for (int i = 0; i < limit; i++) {
