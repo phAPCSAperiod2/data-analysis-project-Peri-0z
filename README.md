@@ -70,8 +70,8 @@ UML_Diagram.png (or UML_Diagram.pdf)
 **Source / Link:**  
 
 **What this dataset contains (2–3 sentences):**  
-This dataset contains all the information for the first 152 Pokemon
-in generation 1.
+This dataset contains all the information for the first 152 Pokemon in generation 1. 
+This dataset contains the battle stats, types, and pokedex descriptors for all 152 gen 1 pokemon.
 
 ---
 
