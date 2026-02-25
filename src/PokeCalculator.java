@@ -78,6 +78,8 @@ public class PokeCalculator {
         System.out.println("Is the Pokemon " + pokemonList[21].getName() + " strong? " + is21Strong);
         System.out.println("Is the Pokemon " + pokemonList[67].getName() + " strong? " + is67Strong);
 
+        System.out.println(pokemonList[67].getName() + " is a strong Pokemon with both an attack and defense stat greater than 50.");
+
         scanner.close();
     }
 }
