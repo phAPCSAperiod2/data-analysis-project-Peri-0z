@@ -80,7 +80,6 @@ This dataset contains the battle stats, types, and pokedex descriptors for all 1
 Your guiding question should be something you can answer using your dataset.
 
 **My guiding question:**  
-"How many Pokemon are fire, water, or grass type in Generation 1?"
 "How many Pokemon are statistically-speaking, strong?"
 
 Examples:
@@ -165,13 +164,12 @@ After analyzing your objects, print:
 - ✔ A clear answer to your guiding question  
 
 **My findings:**  
-____________________________________________________________________  
-____________________________________________________________________  
-____________________________________________________________________  
+Machamp is, statistically-speaking, a strong Pokemon.  
+There are 12 fire-type, 32 water-type, and 14 grass-type Pokemon total in Gen 1.  
 
 **My answer to the guiding question:**  
-____________________________________________________________________  
-____________________________________________________________________  
+Any Pokemon, like Machamp, with an attack and defense stat  
+greater than 50 is generally strong.  
 
 ---
 
@@ -218,10 +216,11 @@ Write a short reflection (3–5 sentences):
 - How trustworthy are your insights?
 
 **My reflection:**  
-____________________________________________________________________  
-____________________________________________________________________  
-____________________________________________________________________  
-____________________________________________________________________  
+Data quality can be outdated as the fairy type did not exist back in Gen 1, and now
+some Gen 1 pokemon are considered fairy types. My data is biased as I do not take speed
+into consideration. Incomplete or inaccurate data can result in neglecting or underestimating
+the strength of extremely fast pokemon. My insights are relatively trustworthy for older generation
+pokemon players.
 
 ---
 
@@ -251,17 +250,17 @@ Allow the user to choose:
 
 ## ✅ Submission Checklist
 
-- [ ] Dataset selected
-- [ ] Guiding question written
-- [ ] Class created with ≥3 attributes
-- [ ] File reading implemented
-- [ ] ArrayList/array of objects created
-- [ ] At least 2 analysis algorithms implemented
-- [ ] Findings printed
-- [ ] Javadoc comments added
-- [ ] UML diagram included
-- [ ] Reflection completed
-- [ ] Code compiles & runs
+- [X] Dataset selected
+- [X] Guiding question written
+- [X] Class created with ≥3 attributes
+- [X] File reading implemented
+- [X] ArrayList/array of objects created
+- [X] At least 2 analysis algorithms implemented
+- [X] Findings printed
+- [X] Javadoc comments added
+- [X] UML diagram included
+- [X] Reflection completed
+- [X] Code compiles & runs
 
 ---
 
