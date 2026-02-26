@@ -125,9 +125,11 @@ In `Main.java`, you must:
 
 | Attribute Name | CSV Column Name | Column Index # | Notes |
 |----------------|------------------|----------------|-------|
-|                |                  |                |       |
-|                |                  |                |       |
-|                |                  |                |       |
+|     name       |     Pokemon      |        1       |       |
+|     type1      |     Type 1       |        2       |       |
+|     type2      |     Type 2       |        3       |       |
+|     attack     |     Attack       |        6       |       |
+|     defense    |     Defense      |        7       |       |
 
 ---
 
